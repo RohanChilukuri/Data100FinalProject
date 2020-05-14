@@ -9,5 +9,5 @@ pip install matplotlib
 pip install seaborn
 pip install sklearn
 ```
-Run Jupyter Notebook contraceptiveAnalysis.ipynb
+Run Jupyter Notebook contraceptiveAnalysis.ipynb  
 View Project Report
