@@ -2,7 +2,8 @@
 Final Project for Data 100 at UC Berkeley
 # Usage
 Install packages:
-```python
+```
+python
 pip install pandas
 pip install numpy
 pip install matplotlib
